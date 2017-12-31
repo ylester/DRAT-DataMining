@@ -15,7 +15,7 @@ from requests_ntlm import HttpNtlmAuth
 import datetime
 
 ###################################################################################
-Wescrapping Data Anaylsis Project
+Webscrapping Data Anaylsis Project
 ###################################################################################
 
 now = datetime.datetime.now()
